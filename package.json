@@ -8,7 +8,7 @@
     "babel-core": "^6.26.0",
     "babel-loader": "^7.1.2",
     "fin-hypergrid": "^2.0.2",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.13",
     "ts-loader": "^3.2.0",
     "typescript": "^2.6.2"
   },
